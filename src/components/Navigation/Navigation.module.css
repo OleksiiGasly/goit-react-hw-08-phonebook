@@ -1,0 +1,30 @@
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 22px;
+  font-weight: bold;
+  color: black;
+  font-size: 22px;
+}
+
+.link:hover,
+.link:focus {
+  color: #ffc62f;
+}
+
+.activeLink {
+  color: #4f2683;
+}
+
+.activeLink:hover,
+.activeLink:focus {
+  color: #ffc62f;
+}
+
+.loader {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}

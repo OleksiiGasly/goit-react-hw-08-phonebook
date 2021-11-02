@@ -1,0 +1,9 @@
+.form_container {
+  display: inline-block;
+  width: 500px;
+}
+
+h2 {
+  color: #4f2683;
+  margin-bottom: 22px;
+}
